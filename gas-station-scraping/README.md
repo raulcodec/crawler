@@ -1,0 +1,2 @@
+This web scraping file uses python urllib2 module to open a web page - www.statisticsbrain.com/gas-station-statistics.
+It then pulls all the HTML content, parses the content out using Beautiful Soup library to capture all the statistics and write into a file
