@@ -1,0 +1,3 @@
+json reader api python script validates the address of a person by checking the address via maps google api by passing the geo location co-ordinates.
+For each person , a corresponding json document contains the details.The json person details file is loaded and latitude & longitude is passed to maps.google api.
+If a referenced address is found then that is added in the document else none is appended.   
